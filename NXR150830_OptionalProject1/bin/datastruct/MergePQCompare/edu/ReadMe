@@ -1,0 +1,19 @@
+Comparing the Performance of Two MergeSort and PriorityQueue 
+
+For values of Array Size = 2000000
+Here for the above Array Values priority queue performs faster than MergeSort.
+*************************************************************************************************************
+But, For values of ArraySize>20000000 Merge Sort performs better
+MERGESORT Takes on Average 108 seconds for sorting Array of size > 20000000 
+whereas Priority Queue Takes on Average 115 seconds.
+*************************************************************************************************************
+
+Thus we can conclude as the values of Array Size increases MergeSort performance is better than PriorityQueue.
+
+**************************************************************************************************************
+How to Run
+**************************************************************************************************************
+Just run the corresponding classes MergeSortGenerics.java for running MergeSort program
+and Run NaturalOrderElementsPQ.java for Running PriorityQueue program.
+
+***************************************************************************************************************

@@ -1,0 +1,18 @@
+Here i have done the below problems
+I have included readme files under each package of how to run the program.
+
+*******************************************************************************
+1) Implement Merge Sort (say, from Cormen's book) in Java using generics.
+   Compare its running time on n > 1 million elements with another
+   O(nlogn) algorithm, say for example, sorting using a priority queue:
+*******************************************************************************
+2)Suppose large numbers are stored in a list of integers.  Write
+   functions for adding and subtracting large numbers.
+*******************************************************************************
+3)Write the Merge sort algorithm that works on linked lists.  This
+   will be a member function of a linked list class, so that it can
+   work with the internal details of the class.  The function should
+   use only O(log n) extra space (mainly for recursion), and not make
+   copies of elements unnecessarily.  You can start from the
+   SinglyLinkedList class provided or create your own.
+***********************************************************************************
